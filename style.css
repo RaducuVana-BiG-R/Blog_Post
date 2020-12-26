@@ -1,3 +1,9 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: berder-box;
+}
+
 html {
  font-size: 16px;
 }
@@ -15,14 +21,17 @@ h1, h2 {
 
 h2 {
  font-size: 1.5625em;
+ margin-bottom: 10px;
 }
 
 h1 {
  font-size: 2.5em;
+ margin-bottom: 20px;
 }
 
 .main-text {
   text-align: justify;
+  margin-bottom: 20px;
 }
 
 .author-text {
