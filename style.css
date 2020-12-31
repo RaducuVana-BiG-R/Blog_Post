@@ -38,6 +38,7 @@ h1 {
 .main-text {
   text-align: justify;
   margin-bottom: 20px;
+ line-height: 150%;
 }
 
 .author-text {
